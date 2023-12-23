@@ -301,7 +301,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=j3zrKvb3t8BMqHaqyxRK9jkU0yk6MPX5kK2kDRpGlGU"></script>
 
 # HTML Compression
 # - http://jch.penibelst.de/
