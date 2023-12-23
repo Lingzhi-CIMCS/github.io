@@ -11,7 +11,7 @@ redirect_from:
 
 Integrated photonics
 ======
-![integrated photonics](https://github.com/FLYR01/CIMCS.github.io/blob/master/images/Integrated_photonics.png)
+![integrated photonics](https://raw.githubusercontent.com/FLYR01/CIMCS.github.io/master/images/Integrated_photonics.png)
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
