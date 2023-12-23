@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![logo](images/profile.png)
 At CIMCS, we stand at the forefront of technological innovation, where the intricate world of multiphysics meets the advanced circuit and system design. Our center is dedicated to advancing the boundaries of research and development in Integrated Multiphysics Circuits and Systems. We focus on harnessing the power of multi-physical phenomena to revolutionize the design and functionality of electronic circuits and systems.
 
 Our mission is to create a collaborative environment that brings together brilliant minds from the fields of physics, engineering, and information technology. We aim to develop cutting-edge solutions that address the growing challenges and opportunities in the tech world. Our research spans a wide range of applications, from enhancing computational capabilities to pioneering new forms of communication and sensing.
