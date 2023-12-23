@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the Center for Integrated Multiphysics Circuits and Systems (CIMCS)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+At CIMCS, we stand at the forefront of technological innovation, where the intricate world of multiphysics meets the advanced circuit and system design. Our center is dedicated to advancing the boundaries of research and development in Integrated Multiphysics Circuits and Systems. We focus on harnessing the power of multi-physical phenomena to revolutionize the design and functionality of electronic circuits and systems.
+
+Our mission is to create a collaborative environment that brings together brilliant minds from the fields of physics, engineering, and information technology. We aim to develop cutting-edge solutions that address the growing challenges and opportunities in the tech world. Our research spans a wide range of applications, from enhancing computational capabilities to pioneering new forms of communication and sensing.
+
+CIMCS is equipped with state-of-the-art facilities and resources that enable our researchers to conduct groundbreaking work. We pride ourselves on our interdisciplinary approach, combining theoretical physics with practical engineering to create innovations that are not only scientifically advanced but also viable and sustainable in the real world.
+
+Through partnerships with leading academic institutions, industries, and research organizations, CIMCS is committed to pushing the envelope of what's possible in integrated multiphysics. We are a hub of inspiration, learning, and discovery, where the next generation of technologies is being born.
+
+Join us at CIMCS as we explore the uncharted territories of multiphysics circuits and systems, and help shape a smarter, more connected world.
 
 A data-driven personal website
 ======
