@@ -6,20 +6,19 @@ main:
 - title: "Research"
     url: /portfolio/
 
-  - title: "Publications"
+- title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+- title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+- title: "Teaching"
     url: /teaching/    
    
-  - title: "Members"
+- title: "Members"
     url: /cv/
 
-  - title: "News"
+- title: "News"
     url: /year-archive/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+#- title: "Guide"
+#  url: /markdown/
