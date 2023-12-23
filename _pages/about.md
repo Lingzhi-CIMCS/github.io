@@ -14,24 +14,40 @@ Our mission is to create a collaborative environment that brings together brilli
 
 CIMCS is equipped with state-of-the-art facilities and resources that enable our researchers to conduct groundbreaking work. We pride ourselves on our interdisciplinary approach, combining theoretical physics with practical engineering to create innovations that are not only scientifically advanced but also viable and sustainable in the real world.
 
-Through partnerships with leading academic institutions, industries, and research organizations, CIMCS is committed to pushing the envelope of what's possible in integrated multiphysics. We are a hub of inspiration, learning, and discovery, where the next generation of technologies is being born.
+Through partnerships with leading academic institutions, industries, and research organizations, CIMCS is committed to pushing the envelope of what's possible in Integrated Multiphysics Circuits and Systems. We are a hub of inspiration, learning, and discovery, where the next generation of technologies is being born.
 
 Join us at CIMCS as we explore the uncharted territories of multiphysics circuits and systems, and help shape a smarter, more connected world.
 
-A data-driven personal website
+What is Integrated Multiphysics Circuits and Systems?
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Integrated Multiphysics Circuits and Systems mark a major technological leap, emerging from the fusion of diverse scientific and engineering fields. This area developed to meet the increasing demand for devices that are not only more advanced and compact but also energy-efficient. This advancement is fueled by rapid progress in materials science, manufacturing technologies, and computational power. Essentially, it integrates various physical phenomena—like electromagnetic, thermal, mechanical, and optical processes—into electronic circuits and systems. This integration enhances device functionality, performance, and energy efficiency, catering to the intricate needs of modern applications in sectors such as consumer electronics, healthcare, environmental monitoring, and aerospace. The advent of Integrated Multiphysics Circuits and Systems represents a significant shift from traditional single-physics designs, embracing the complexity and interplay of multiple physical domains for better, more versatile technological solutions.
+## Principal Physical Fields in Circuits and Systems Engineering
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Electromagnetic Field**
+ 
+- **Thermal Field**
+ 
+- **Acoustic Field**
+ 
+- **Optical Field**
+ 
+- **Quantum Field**
+ 
+- **Mechanical Field**
+ 
+- **Chemical Field**
+  
+  
+*Each field brings unique principles and challenges, requiring an interdisciplinary approach for innovative and efficient engineering solutions.*
 
-Getting started
+
+Applications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **Integrated Photonic Circuit**
+
+- **MEMS**
+
+- **SAW BAW & FBAR**
 
 Site-wide configuration
 ------
