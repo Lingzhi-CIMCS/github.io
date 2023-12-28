@@ -1,7 +1,7 @@
 ---
-title: '1 Preliminary Background:Maxwell equations'
-date: 2023-12-28
-permalink: /posts/PreliminaryBackground/1/1/
+title: 'Blog Post number 1'
+date: 2012-08-14
+permalink: /posts/2012/08/blog-post-1/
 tags:
   - Maxwell equations
   - Introduction
