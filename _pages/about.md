@@ -20,7 +20,12 @@ Join us at CIMCS as we explore the uncharted territories of multiphysics circuit
 
 What is Integrated Multiphysics Circuits and Systems?
 ======
-Integrated Multiphysics Circuits and Systems mark a major technological leap, emerging from the fusion of diverse scientific and engineering fields. This area developed to meet the increasing demand for devices that are not only more advanced and compact but also energy-efficient. This advancement is fueled by rapid progress in materials science, manufacturing technologies, and computational power. Essentially, it integrates various physical phenomena—like electromagnetic, thermal, mechanical, and optical processes—into electronic circuits and systems. This integration enhances device functionality, performance, and energy efficiency, catering to the intricate needs of modern applications in sectors such as consumer electronics, healthcare, environmental monitoring, and aerospace. The advent of Integrated Multiphysics Circuits and Systems represents a significant shift from traditional single-physics designs, embracing the complexity and interplay of multiple physical domains for better, more versatile technological solutions.
+Integrated Multiphysics Circuits and Systems mark a major technological leap, emerging from the fusion of diverse scientific and engineering fields. This area developed to meet the increasing demand for devices that are not only more advanced and compact but also energy-efficient. This advancement is fueled by rapid progress in materials science, manufacturing technologies, and computational power. Essentially, it integrates various physical phenomena—like electromagnetic, thermal, mechanical, and optical processes—into electronic circuits and systems. 
+
+A prominent example is the inherent multi-physical nature of sensing and detection systems, which are circuits and systems designed to interface with various physical fields. Intrinsically, these systems are engineered to capture, decode, and process signals originating from diverse fields such as electromagnetic, acoustic, thermal, or mechanical domains. Furthermore, the Integrated Multiphysics Circuits and Systems can extend it to advanced applications in communication and computing.
+
+
+This integration enhances device functionality, performance, and energy efficiency, catering to the intricate needs of modern applications in sectors such as consumer electronics, healthcare, environmental monitoring, and aerospace. The advent of Integrated Multiphysics Circuits and Systems represents a significant shift from traditional single-physics designs, embracing the complexity and interplay of multiple physical domains for better, more versatile technological solutions.
 
 ##  What is Fields?
 
@@ -37,26 +42,17 @@ Here are some common types of fields involved in multi-physics:
 
 ## Principal Physical Fields in Circuits and Systems Engineering
 
-- **Electromagnetic Field(Optical Field)**
- 
-- **Thermal Field**
- 
-- **Acoustic Field**
- 
-- **Mechanical Field**
- 
-- **Chemical Field**
-  
-  
-*Each field brings unique principles and challenges, requiring an interdisciplinary approach for innovative and efficient engineering solutions.*
+**Electromagnetic Field (Optical Field):** This field is the cornerstone of modern communication systems, covering a broad spectrum from radio to optical frequencies. Its expansive reach is crucial to the operation and progression of current communication technologies.
 
+**Carrier Transport Field:** Central to semiconductor devices, this field governs the dynamics of charge carrier movement, fundamentally shaping the behavior and performance of electronic components. Mastery of carrier transport is essential for innovating devices that are more efficient, faster, and more compact.
 
-Applications
-======
-- **Integrated Photonic Circuit**
+**Thermal Field:** Integral to the effective management of heat in electronic devices, the thermal field's regulation is vital for maintaining device reliability and longevity. Its ability to precisely adjust optical waveguides adds a layer of reconfigurability to photonic circuits, marking its importance in the realm of optoelectronics.
 
-- **MEMS**
+**Acoustic Field:** From the realm of audio systems to high-frequency applications in industrial and medical imaging, the acoustic field's wide-ranging utility is remarkable. Its synergy with the Electromagnetic Field is leveraged in Surface Acoustic Wave devices and acousto-optic modulation, crucial for tunnig of light and microwaves.
 
-- **SAW BAW & FBAR**
+**Mechanical Field:** In the domain of MEMS (Micro-Electro-Mechanical Systems) technology, the mechanical field ingeniously integrates mechanical components with electronic systems. This integration allows for the miniaturization of devices without sacrificing functionality, demonstrating the field's significant impact on technological evolution.
+
+**Chemical Field:** As the bedrock of device fabrication and material innovation, the chemical field is pivotal in enhancing device functionality. It spans a spectrum of applications, from circuit etching to boosting sensor sensitivity.
+
 
 
