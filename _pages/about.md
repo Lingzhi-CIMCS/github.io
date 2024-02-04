@@ -21,17 +21,27 @@ Join us at CIMCS as we explore the uncharted territories of multiphysics circuit
 What is Integrated Multiphysics Circuits and Systems?
 ======
 Integrated Multiphysics Circuits and Systems mark a major technological leap, emerging from the fusion of diverse scientific and engineering fields. This area developed to meet the increasing demand for devices that are not only more advanced and compact but also energy-efficient. This advancement is fueled by rapid progress in materials science, manufacturing technologies, and computational power. Essentially, it integrates various physical phenomena—like electromagnetic, thermal, mechanical, and optical processes—into electronic circuits and systems. This integration enhances device functionality, performance, and energy efficiency, catering to the intricate needs of modern applications in sectors such as consumer electronics, healthcare, environmental monitoring, and aerospace. The advent of Integrated Multiphysics Circuits and Systems represents a significant shift from traditional single-physics designs, embracing the complexity and interplay of multiple physical domains for better, more versatile technological solutions.
+
+##  What is Fields?
+
+Fields in multi-physics refer to various types of physical quantities distributed in space and time, fundamental to the description and analysis of physical phenomena. While fields in theoretical physics are seen as the fundamental constituents of reality, underlying the fabric of the universe itself, in engineering and multi-physics simulations, they serve as mathematical representations of physical quantities distributed in space and time, providing a framework for modeling and simulation. This approach is less about the fundamental nature of reality and more about practical computation and prediction of physical phenomena. 
+
+For instance, photons are quanta of the electromagnetic field, suggesting that fields are not just 'out there' affecting particles; they are the very substance from which what we perceive as particles emerge. This contrasts with the perspective in engineering and multi-physics simulations, where electromagnetic fields are utilized more as mathematical tools to represent and compute the behavior of electric and magnetic fields. Additionally, certain fields in multi-physics simulations, like temperature fields, lack a tangible, substance-based counterpart.
+
+Here are some common types of fields involved in multi-physics:
+
+- **Scalar Fields**: These are fields described by a single scalar value at every point in space and time. An example is the temperature distribution in a material.
+- **Vector Fields**: These fields are described by a vector (magnitude and direction) at every point in space and time. Examples include velocity fields in fluid dynamics and electric and magnetic fields in electromagnetics.
+- **Tensor Fields**: More complex than scalar or vector fields, tensor fields associate a tensor (a multi-dimensional array of numbers) to every point in space and time, representing more complex interactions and relationships. Stress and strain in materials, described by second-order tensors, are examples of tensor fields.
+
+
 ## Principal Physical Fields in Circuits and Systems Engineering
 
-- **Electromagnetic Field**
+- **Electromagnetic Field(Optical Field)**
  
 - **Thermal Field**
  
 - **Acoustic Field**
- 
-- **Optical Field**
- 
-- **Quantum Field**
  
 - **Mechanical Field**
  
