@@ -26,7 +26,7 @@ A prominent example is the inherent multi-physical nature of sensing and detecti
 
 This integration enhances device functionality, performance, and energy efficiency, catering to the intricate needs of modern applications in sectors such as consumer electronics, healthcare, environmental monitoring, and aerospace. The advent of Integrated Multiphysics Circuits and Systems represents a significant shift from traditional single-physics designs, embracing the complexity and interplay of multiple physical domains for better, more versatile technological solutions.
 
-##  What is Fields?
+##  What are Fields?
 
 Fields in multi-physics refer to various types of physical quantities distributed in space and time, fundamental to the description and analysis of physical phenomena. While fields in theoretical physics are seen as the fundamental constituents of reality, underlying the fabric of the universe itself, in engineering and multi-physics simulations, they serve as mathematical representations of physical quantities distributed in space and time, providing a framework for modeling and simulation. This approach is less about the fundamental nature of reality and more about practical computation and prediction of physical phenomena. 
 
