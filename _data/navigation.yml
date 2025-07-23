@@ -6,17 +6,17 @@ main:
   - title: "Publications"
     url: /publications/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
   - title: "News"
     url: /portfolio/
         
-  - title: "Members"
-    url: /year-archive/
+#  - title: "Members"
+#    url: /year-archive/
     
-  - title: "Opportunity"
-    url: /cv/
+#  - title: "Opportunity"
+#   url: /cv/
 
   - title: "Blogs"
     url: /year-archive/
