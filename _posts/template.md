@@ -1,0 +1,159 @@
+---
+title: 'Preliminary Background-Maxwell equations'
+date: 2025-07-23
+permalink: /posts/2025/07/blog-post-1/
+tags:
+  - Maxwell equations
+  - Introduction
+  - Preliminary Background
+---
+
+# Monograph Reading & Side‑Note Template (Markdown)
+
+> **How to use**
+>
+> 1. Copy a small chunk of the text you’re reading (a paragraph or two) into the **Text** column.
+>
+> 2. Take *active* notes in the **Your notes / reactions** column: summaries, questions, critiques, connections, diagrams, formulas, etc.
+>
+> 3. After finishing a chapter/session, add a brief **Session Summary** and list any **Action Items** or follow‑up questions.
+>
+> 4. Export or print as needed.
+
+## Metadata
+
+| Field                     | Value |
+| ------------------------- | ----- |
+| **Title of monograph**    |       |
+| **Author(s)**             |       |
+| **Chapter / page range**  |       |
+| **Date & time**           |       |
+| **Goal for this session** |       |
+
+## Reading Notes
+
+| Text (copy or paraphrase)            | Your notes / reactions                                                 |
+| ------------------------------------ | ---------------------------------------------------------------------- |
+| &#x3e; *Paste first paragraph here.* | *• Summarize main idea.*  • Questions?  • How does this relate to ___? |
+| &#x3e;                               |                                                                        |
+| &#x3e;                               |                                                                        |
+| &#x3e;                               |                                                                        |
+| &#x3e;                               |                                                                        |
+| &#x3e;                               |                                                                        |
+
+(Add or delete rows as needed)
+
+### Session Summary
+
+Write a concise (3–5 sentence) summary of what you just read and why it matters.
+
+### Action Items / Follow‑up Questions
+
+* [ ] Example: Look up cited study on page 45.
+
+* [ ] Example: Compare author’s argument with Smith (2023).
+
+* [ ]
+
+## Cumulative Index (optional)
+
+If you keep all sessions in one file, create an index of key concepts and where they appear.
+
+| Concept | Notes link / page |
+| ------- | ----------------- |
+|         |                   |
+|         |                   |
+
+## Alternative: Side‑by‑side Layout via Raw HTML
+
+If your Markdown viewer supports raw HTML (Obsidian, Typora, GitHub Pages, etc.), you can use the following snippet to render the copied text and your notes *strictly* in two columns. Duplicate the `<div class="note-grid">…</div>` block for each new passage you read.
+
+```html
+<style>
+.note-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 50 % – 50 % */
+  gap: 1rem;
+  align-items: start;
+}
+.note-grid .cell {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+</style>
+
+<div class="note-grid">
+  <div class="cell"><!-- Paste monograph text here --></div>
+  <div class="cell"><!-- Your notes / reactions here --></div>
+</div>
+```
+
+### Tips
+
+* **Width control**: Change `grid-template-columns: 40ch 1fr;` to give the left column a fixed text width.
+
+* **Export**: When converting with Pandoc to PDF/Word, keep `--standalone` so the `<style>` is embedded.
+
+* **Obsidian**: Enable *Allow HTML tags* in settings.
+
+
+
+# Chapter 1:Preliminary Background
+## Maxwell equations
+
+&#8194;&#8194;
+In the landmark work "Treatise on Electricity and Magnetism" (1873), Scottish physicist James Clerk Maxwell presented his revolutionary electromagnetic theory. This theory, foundational to the understanding of electromagnetic phenomena, implies that electric, magnetic, and optical behaviors are governed by a unified set of laws. These laws, now known as Maxwell's equations, are articulated in a precise mathematical framework, encapsulating the fundamental principles of electromagnetism. Maxwell's theory has been instrumental in uncovering the existence of electromagnetic waves, a discovery pivotal to the advancement of modern physics and engineering.
+
+---
+![integratedphotonics](https://raw.githubusercontent.com/FLYR01/CIMCS.github.io/master/images/Integrated_photonics.png)
+
+---
+&#8194;&#8194;
+Currently, Maxwell's equations are typically represented by four distinct formulations, each delineating a specific aspect of electromagnetic interaction. While commonly ascribed to Maxwell, these equations are actually a synthesis of insights from Gauss (in conjunction with Coulomb), Faraday, and Ampère.
+
+&#8194;&#8194;
+Maxwell's critical contribution lay not in the initial conception of these equations but in their integration and the significant refinement of Ampère's Law, the quartet's final component. His introduction of the Displacement Current concept was a decisive enhancement, completing Ampère's Law and infusing the entire set with enhanced completeness and symmetry.
+
+&#8194;&#8194;
+The four formulations are as follows:
+
+1. **Gauss's Law for Electricity**:
+
+   - Differential Form: $$\oint_S \mathbf{D} \cdot d\mathbf{s} = Q$$
+  
+   - Differential Form: $$\nabla \cdot \mathbf{D} = \rho$$
+
+This law, in its integral form, states that the electric flux through a closed surface is proportional to the charge enclosed. In differential form, it relates the electric field divergence to the electric charge density.
+
+2. **Gauss's Law for Magnetism**:
+
+   - Integral Form: $$\oint_S \mathbf{B} \cdot d\mathbf{s} = 0$$
+
+   - Differential Form: $$\nabla \cdot \mathbf{B} = 0$$
+
+This law implies that magnetic monopoles do not exist; thus, the magnetic flux through a closed surface is zero. The differential form expresses this as the divergence of the magnetic field being zero.
+
+3. **Faraday's Law of Induction**:
+
+   - Integral Form: $$\oint_C \mathbf{E} \cdot d\mathbf{l} = -\frac{d}{dt} \oint_S \mathbf{B} \cdot d\mathbf{s}$$
+
+   - Differential Form: $$\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}$$
+
+This law reveals the fundamental interaction between time-varying magnetic fields and electric fields. The integral form correlates the induced electric field around a closed loop with the rate of change of magnetic flux, while the differential form conveys this relationship through the curl of the electric field.
+
+4. **Ampère's Law with Maxwell's Addition**:
+   
+   - Integral Form: $$\oint_C \mathbf{H} \cdot d\mathbf{l} = I + \frac{d}{dt} \oint_S \mathbf{D} \cdot d\mathbf{s}$$
+
+   - Differential Form: $$\nabla \times \mathbf{H} =  \mathbf{J} +  \frac{\partial \mathbf{D}}{\partial t}$$
+
+This law unifies the magnetic field with electric currents and changing electric fields. The integral form connects the magnetic field around a loop to the current and the rate of change of electric flux, while the differential form represents this as the curl of the magnetic field being related to the current density and the rate of change of the electric displacement field.
+
+---
+
+&#8194;&#8194;In the exposition of Maxwell's equations, a discerning application of mathematical notation distinguishes between the partial derivative,  $\frac{\partial}{\partial t}$, in their differential formulation, and the total derivative,  $\frac{d}{dt}$, in their integral representation. This distinction is not merely a matter of notation but reflects the underlying physical and mathematical principles:
+
+1. **Partial Derivative  $\frac{\partial}{\partial t}$**: Employed in the differential form, the partial derivative isolates the temporal variation of the field, holding spatial coordinates in abeyance. This treatment is essential in a framework where fields are functions of both space and time, and their temporal evolution is to be examined independently of spatial dynamics.
+
+2. **Total Derivative  $\frac{d}{dt}$**: In the integral form, particularly relevant in the context of Faraday's Law of Induction and Ampère's Law with Maxwell's Addition, the total derivative signifies the rate of change of magnetic or electric flux as a function exclusively of time. This differentiation emerges naturally after the spatial aspects have been integrated, directing focus on the temporal evolution of the flux.
