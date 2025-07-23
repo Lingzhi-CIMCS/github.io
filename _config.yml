@@ -83,7 +83,8 @@ author:
   name             : #"Your Sidebar Name"
   avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Chengdu China"
+  location         : "Cambridge UK"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=LksPLnwAAAAJ&hl"
